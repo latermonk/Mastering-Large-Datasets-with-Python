@@ -1,0 +1,24 @@
+2019-03-27 11:42:07 WARN  Utils:66 - Your hostname, flavie resolves to a loopback address: 127.0.1.1; using 192.168.1.111 instead (on interface wlp2s0)
+2019-03-27 11:42:07 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2019-03-27 11:42:08 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2019-03-27 11:42:08 WARN  Utils:66 - Service 'SparkUI' could not bind on port 4040. Attempting port 4041.
+Kim Clijsters                 1900
+Serena Williams               1860
+Justine Henin                 1855
+Amelie Mauresmo               1775
+Venus Williams                1770
+Lindsay Davenport             1765
+Maria Fernanda Alves          1755
+Jennifer Capriati             1730
+Elena Dementieva              1720
+Lisa Mcshea                   1715
+Anastasia Myskina             1700
+Caroline Wozniacki            1700
+Monique Adamczak              1695
+Martina Hingis                1690
+Maria Sharapova               1685
+Ai Sugiyama                   1680
+Chanda Rubin                  1675
+Luiza Biktyakova              1665
+Nadia Petrova                 1665
+Nathalie Dechy                1665

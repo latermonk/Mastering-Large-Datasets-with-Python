@@ -1,0 +1,5 @@
+$HADOOP/bin/hadoop jar /home/jt-w/bin/hadoop/hadoop-streaming-3.2.0.jar \
+  -file ./elo-mapper.py -mapper ./elo-mapper.py \
+  -file ./elo-reducer.py -reducer ./elo-reducer.py \
+  -input '/media/jt-w/Seagate500G/wta_matches_200*.csv' \
+  -output ./tennis_ratings_200X
